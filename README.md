@@ -1,5 +1,5 @@
-##Hi. I'm Mason
-###Computer Science Student | Aspiring AI/ML Engineer
+## Hi. I'm Mason
+### Computer Science Student | Aspiring AI/ML Engineer
 I am a Computer Science major at Seattle Pacific University with a passion for building high-performance systems and intelligent applications.
 
 ---
