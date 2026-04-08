@@ -38,4 +38,4 @@ I am a Computer Science major at Seattle Pacific University with a passion for b
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/masonharris1)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com) -->
-[![Handshake](https://img.shields.io/badge/Handshake-303133?style=for-the-badge&logo=handshake&logoColor=white)](https://app.joinhandshake.com/profiles/masonharris))
+[![Handshake](https://img.shields.io/badge/Handshake-303133?style=for-the-badge&logo=handshake&logoColor=white)](https://app.joinhandshake.com/profiles/masonharris)
