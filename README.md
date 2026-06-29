@@ -32,6 +32,7 @@ I am a Computer Science major at Seattle Pacific University with a passion for b
 ## Featured Projects
 
 * **[Pathfinding Visualizer](your-link-here)** - A C++ implementation of A* and Dijkstra algorithms built with SFML.
+* **[Flowposal](https://github.com/MasonC-Harris/Proposal-Pro)** - An archived full-stack AI SaaS case study built with Next.js, Supabase, Stripe, Google Gemini, and a Chrome extension.
 
 ---
 
