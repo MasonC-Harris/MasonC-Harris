@@ -33,6 +33,7 @@ I am a Computer Science major at Seattle Pacific University with a passion for b
 
 * **[Pathfinding Visualizer](https://github.com/MasonC-Harris/Pathfinding-Visualizer)** - A C++ implementation of Breadth-First Search and Depth-First Search algorithms built with SFML.
 * **[Flowposal](https://github.com/MasonC-Harris/Proposal-Pro)** - An archived full-stack AI SaaS case study built with Next.js, Supabase, Stripe, Google Gemini, and a Chrome extension.
+* **[Command Center](https://github.com/MasonC-Harris/command-center-showcase)** - A local-first desktop app I built for myself in under 24 hours that unifies Outlook and Gmail mail, calendar, and tasks, with AI mail classification, built with Electron, React, TypeScript, and SQLite.
 
 ---
 
